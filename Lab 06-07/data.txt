@@ -1,0 +1,16 @@
+#include<stdio.h>
+void main(){
+	int a=10,b;
+	int ar[20];
+	float c=40.20,d=+5E2.5,e=5E2,f=-2.5e5;
+	printf("A is : %d",a);
+}
+
+int fun1(){
+	
+	return 1;
+}
+
+void fun2(){
+	printf("I am in function 2");
+}
